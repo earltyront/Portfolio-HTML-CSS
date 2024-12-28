@@ -295,3 +295,16 @@ footer .nav-links a::after{
 footer .nav-links a:hover::after{
     width: 100%;
 }  
+
+#das {
+    text-align: center;
+    padding-top: 7rem;
+    padding-bottom: 10rem;
+}
+
+.excelsheet {
+    height: 50rem;
+    width: 90%;
+    margin-top: 2rem;
+    border: 3px solid black;
+}
